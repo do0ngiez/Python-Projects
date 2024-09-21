@@ -1,0 +1,36 @@
+Download the APK at: tinyurl.com/TB-Guardian-APK
+Login using the following credentials
+username: worker3@gmail.com
+password: Worker!
+
+1. Click the 'Add a patient' Button 
+2. Enter any credential for the patient to be created. 
+3. Fill out all the necessary fields.
+4. Click update patient information
+5. Go back to dashboard
+6. Go to appointments
+7. Set a new schedule. Make sure to add all the necessary information. It will redirect to your SMS app. You can opt to go back to the app instead of sending the message
+8. Go back to dashboard
+9. Go to 'Patient Submissions'
+10. If there is a current item in the "To Verify" section, click "Verify Submission" Button. A video will play. 
+11. Click "Verify" button again. After that, it will got back to the dashboard. 
+
+Answer the google forms below. In the worker's side or patient's side. Kindly choose Worker's Side
+https://forms.gle/BgkPThHoV4CvJJFz7
+
+
+Download the APK at: tinyurl.com/TB-Guardian-APK
+Login using the following credentials
+username: patient08@gmail.com
+password: Patient!
+
+1. Click the submit button in the next submission section
+2. Submit a Video
+3. Navigate to missing submissions by clicking the 'see submissions' button
+4. Navigate to appointments to see upcoming f2f schedule
+5. Navigate to Submission History
+6. Navigate to profile to see the summary of done and missed submissions
+
+
+Answer the google forms below. In the worker's side or patient's side. Kindly choose Patient's Side
+https://forms.gle/BgkPThHoV4CvJJFz7
